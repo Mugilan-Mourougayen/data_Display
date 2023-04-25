@@ -25,6 +25,10 @@ const tempSchemas = new Schema({
     type: Number,
     required: true, 
   },
+  val2: {
+    type: Number,
+    required: true, 
+  },
 
 });
 

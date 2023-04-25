@@ -43,7 +43,8 @@ mongoose
         teperature: req.body.teperature,
         humidity:req.body.humidity,
         val1:req.body.val1,
-        val2:req.body.val2
+        val2:req.body.val2,
+        val3:req.body.val3
                
     });
     newtemp
